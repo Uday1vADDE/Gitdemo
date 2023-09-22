@@ -1,3 +1,0 @@
-# Gitdemo
-
-first time
